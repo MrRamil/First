@@ -1,4 +1,4 @@
-Print("Technogroup(NED);")
+Print("Technogroup(korf);")
 Print("NED;")
 print("NED-Moscow;")
 Print("Korf;")
