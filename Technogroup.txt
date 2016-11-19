@@ -1,3 +1,5 @@
-Print("Technogroup")
-Print("NED")
-print("NED-Moscow")
+Print("Technogroup(NED);")
+Print("NED;")
+print("NED-Moscow;")
+Print("Korf;")
+Print("Vertro;")
